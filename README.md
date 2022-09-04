@@ -6,7 +6,7 @@ https://ballerina.io/
 To run the project, please follow the below mentioned points
 1. Install ballerina.(Ballerina 2202.0.0 (Swan Lake))
 2. Clone the project into your local machine.
-3. Go to the root folder of the project and run bal run.
+3. open the terminal and go inside the project directory and run bal run.
 
 Below are the rest endpoints:
 
